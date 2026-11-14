@@ -1,0 +1,7 @@
+﻿langgraph
+langgraph-checkpoint-sqlite
+langchain-core
+ddgs
+pydantic
+pytest
+agent-guardrails-lite
